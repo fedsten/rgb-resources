@@ -5,7 +5,7 @@ This document aims to provide a comprehensive list of resources useful to unders
 - [Understanding the RGB protocol](https://medium.com/@FedericoTenga/understanding-rgb-protocol-7dc7819d3059)
 
 ## Wallets
-- Iris Wallet ([GitHub](https://github.com/RGB-Tools/iris-wallet-android)) - Android wallet for issuing, spending and receiving RGB assets
+- Iris Wallet ([GitHub](https://github.com/RGB-Tools/iris-wallet-android) - [Play Store](https://play.google.com/store/apps/details?id=com.iriswallet.testnet)) - Android wallet for issuing, spending and receiving RGB assets
 - MyCitadel ([GitHub](https://mycitadel.io/)) - Multiplatform RGB-enabled wallet
 - BitMask ([GitHub](https://bitmask.app/)) - Browser extension for accessing decentralized applications on Bitcoin using the RGB protocol
 

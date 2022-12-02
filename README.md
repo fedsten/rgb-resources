@@ -3,13 +3,16 @@ This document aims to provide a comprehensive list of resources useful to unders
 
 ## Articles
 - [Understanding the RGB protocol](https://medium.com/@FedericoTenga/understanding-rgb-protocol-7dc7819d3059)
+- [The RGB magic: client-side contracts on Bitcoin
+](https://bitcoinmagazine.com/technical/rgb-magic-client-contracts-on-bitcoin)
 
 ## Wallets
 - Iris Wallet ([GitHub](https://github.com/RGB-Tools/iris-wallet-android) - [Play Store](https://play.google.com/store/apps/details?id=com.iriswallet.testnet)) - Android wallet for issuing, spending and receiving RGB assets
 - MyCitadel ([GitHub](https://mycitadel.io/)) - Multiplatform RGB-enabled wallet
 - BitMask ([GitHub](https://bitmask.app/)) - Browser extension for accessing decentralized applications on Bitcoin using the RGB protocol
-
+- Shiro Wallet ([GitHub](https://github.com/diamondhands-dev/shiro-backend)) - Wallet server for the RGB protocol 
 ## Guides
+- [rgb-lib-python demo](https://github.com/RGB-Tools/rgb-lib-python/tree/master/demo) - Python tool to issue and transfer RGB assets
 - [demo-rgb.sh](https://github.com/LNP-BP/nodes/blob/master/contrib/demo-rgb.sh/) - List of commands to run your own RGB node and issue assets with it
 
 ## Libraries

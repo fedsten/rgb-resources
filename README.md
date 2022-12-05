@@ -1,5 +1,5 @@
 # RGB-Resources
-This document aims to provide a comprehensive list of resources useful to understand and lear how to use the RGB protocol.
+This is a curated list of resources useful to understand the RGB protocol and learn how to use it.
 
 ## Articles
 - [Understanding the RGB protocol](https://medium.com/@FedericoTenga/understanding-rgb-protocol-7dc7819d3059)
@@ -28,7 +28,8 @@ This document aims to provide a comprehensive list of resources useful to unders
 - [Twitter list](https://twitter.com/i/lists/1582840508933582849/members) - List of people and companies active on Twitter working on RGB
 
 ## Other Resources
-- [RGB FAQ](https://www.rgbfaq.com/) - Overview and FAQ, list of useful resources like developer calls, presentation slides and articles.
+- [rgb.tech](https://www.rgb.tech/) - List of links to technical documentation
+- [RGB FAQ](https://www.rgbfaq.com/) - Overview and FAQ, list of useful resources like developer calls, presentation slides and articles
 - [awesome-rgb](https://github.com/louneskmt/awesome-rgb#readme) - Other list of RGB resources similar to this one but with a different maintainer
 
 

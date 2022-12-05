@@ -1,4 +1,4 @@
-# RGB-Resources
+# RGB resources
 This is a curated list of resources useful to understand the RGB protocol and learn how to use it.
 
 ## Articles

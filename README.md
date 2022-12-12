@@ -25,6 +25,8 @@ This is a curated list of resources useful to understand the RGB protocol and le
 ## Community
 - [RGB Q&A/community group](https://t.me/rgbtelegram) - Main Telegram group of the RGB community
 - [RGB developers](https://t.me/RGBDevelopers) - Telegram group for developers working on RGB
+- [RGBaguette](https://t.me/rgbaguette) - French Telegram group
+- [RGB Italia](https://t.me/rgbitalia) - Italian Telegram group
 - [Twitter list](https://twitter.com/i/lists/1582840508933582849/members) - List of people and companies active on Twitter working on RGB
 
 ## Other Resources

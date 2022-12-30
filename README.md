@@ -1,6 +1,9 @@
 # RGB resources
 This is a curated list of resources useful to understand the RGB protocol and learn how to use it.
 
+## Entry point
+As a main entry point to start learn about RGB and understand the protocol visit [rgb.info](https://rgb.info)
+
 ## Articles
 - [Understanding the RGB protocol](https://medium.com/@FedericoTenga/understanding-rgb-protocol-7dc7819d3059)
 - [The RGB magic: client-side contracts on Bitcoin
